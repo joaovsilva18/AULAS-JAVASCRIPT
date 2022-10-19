@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+.btn{
+    padding: 10px 8px;
+    width: 100px;
+    color: #fff;
+    background-color: rgb(8, 90, 243);
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
